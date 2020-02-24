@@ -4,9 +4,15 @@ description: Coming soon!
 
 # The DeFi North Star
 
-* Trustless
-* Open Source
-* Permissionless
-* Censorship-Resistant 
-* Unstoppable
+**More details on the DeFi North Star are coming soon.**
+
+✔️ Trustless
+
+✔️ Open Source
+
+✔️ Permissionless
+
+✔️ Censorship-Resistant 
+
+✔️ Unstoppable
 
