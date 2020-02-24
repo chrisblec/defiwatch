@@ -8,7 +8,7 @@
 * [Why do we need DeFi Watch?](defi-values/why-defi-watch.md)
 * [The DeFi North Star](defi-values/the-defi-north-star.md)
 
-## Admin Key Config & OpSec
+## Admin Key OpSec Risk <a id="admin-key-config-and-opsec"></a>
 
 * [What is admin key risk?](admin-key-config-and-opsec/what-is-admin-key-risk.md)
 * [Project Reviews](admin-key-config-and-opsec/project-reviews/README.md)
@@ -24,6 +24,10 @@
   * [Synthetix](admin-key-config-and-opsec/project-reviews/synthetix.md)
   * [Token Sets](admin-key-config-and-opsec/project-reviews/token-sets.md)
   * [Uniswap](admin-key-config-and-opsec/project-reviews/uniswap.md)
+
+## Oracle Risk <a id="price-oracle-usage"></a>
+
+* [Coming Soon](price-oracle-usage/coming-soon.md)
 * [Chris Blec on YouTube](https://youtube.com/chrisblec)
 * [Chris Blec on Twitter](https://twitter.com/chrisblec)
 
