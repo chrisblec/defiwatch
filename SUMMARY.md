@@ -4,7 +4,8 @@
 
 ## DeFi Values
 
-* [Why DeFi Watch?](defi-values/why-defi-watch.md)
+* [Why do we need DeFi Watch?](defi-values/why-defi-watch.md)
+* [The DeFi North Star](defi-values/the-defi-north-star.md)
 
 ## Admin Key Config & OpSec
 
