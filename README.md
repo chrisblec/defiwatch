@@ -12,3 +12,5 @@ The project is founded and maintained by [Chris Blec](https://twitter.com/chrisb
 
 This is a curated site. Contributions are welcome but will be merged at the discretion of the owner.
 
+![](.gitbook/assets/resilience_through_trustlessness.png)
+
