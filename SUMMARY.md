@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to DeFi Watch](README.md)
+* [Disclaimer](disclaimer.md)
 
 ## DeFi Values
 
@@ -23,4 +24,6 @@
   * [Synthetix](admin-key-config-and-opsec/project-reviews/synthetix.md)
   * [Token Sets](admin-key-config-and-opsec/project-reviews/token-sets.md)
   * [Uniswap](admin-key-config-and-opsec/project-reviews/uniswap.md)
+* [Chris Blec on YouTube](https://youtube.com/chrisblec)
+* [Chris Blec on Twitter](https://twitter.com/chrisblec)
 
