@@ -28,6 +28,13 @@
 ## Oracle Risk <a id="price-oracle-usage"></a>
 
 * [Coming Soon](price-oracle-usage/coming-soon.md)
+
+## Additional Resources
+
+* [DeFi Score](https://defiscore.io)
+
+## More on Chris Blec
+
 * [Chris Blec on YouTube](https://youtube.com/chrisblec)
 * [Chris Blec on Twitter](https://twitter.com/chrisblec)
 
