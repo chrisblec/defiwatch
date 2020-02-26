@@ -18,6 +18,7 @@
   * [DDEX](admin-key-config-and-opsec/project-reviews/ddex.md)
   * [Dharma](admin-key-config-and-opsec/project-reviews/dharma.md)
   * [dYdX](admin-key-config-and-opsec/project-reviews/dydx.md)
+  * [iearn.finance](admin-key-config-and-opsec/project-reviews/iearnfinance.md)
   * [InstaDapp](admin-key-config-and-opsec/project-reviews/instadapp.md)
   * [MakerDAO](admin-key-config-and-opsec/project-reviews/makerdao.md)
   * [PoolTogether](admin-key-config-and-opsec/project-reviews/pooltogether.md)
@@ -37,4 +38,3 @@
 
 * [Chris Blec on YouTube](https://youtube.com/chrisblec)
 * [Chris Blec on Twitter](https://twitter.com/chrisblec)
-
