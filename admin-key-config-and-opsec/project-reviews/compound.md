@@ -2,28 +2,31 @@
 
 [Compound](https://compound.finance)'s protocol is upgradeable via a single admin key with a 2-day timelock. Compound claims to use an "offline multi-party process" for key security.
 
-#### Is the security of user funds dependent on opsec of admin key?
+**Update: Feb 26, 2020**  
+Compound has announced the [development of a token-based governance system](https://medium.com/compound-finance/compound-governance-5531f524cf68) which would aim to eliminate the need for the admin key described here. Transition date is still TBD. 
+
+### Is the security of user funds dependent on opsec of admin key?
 
 Yes ⚠️
 
-#### Current Admin Key Config
+### Current Admin Key Config
 
 Timelock: 2 days   
 Multisig: None
 
-#### Claimed Admin Key OpSec
+### Claimed Admin Key OpSec
 
 "Offline multi-party process"
 
-#### Verified Admin Key OpSec
+### Verified Admin Key OpSec
 
 Unverifiable ⚠️
 
-#### Admin Key Address
+### Admin Key Address
 
 [https://etherscan.io/address/0x6d903f6003cca6255d85cca4d3b5e5146dc33925](https://etherscan.io/address/0x6d903f6003cca6255d85cca4d3b5e5146dc33925)
 
-#### More Info & Documentation
+### More Info & Documentation
 
 [Open Zeppelin Audit Summary](https://blog.openzeppelin.com/compound-finance-audit-summary/)   
 [Compound Blog Post on Governance](https://medium.com/compound-finance/upgrading-compound-governance-c56b55a2996c)   

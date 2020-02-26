@@ -2,33 +2,33 @@
 
 [Dharma](https://dharma.io) users' smart wallets are all upgradeable via a 3-of-5 multisig admin contract with a 7-day timelock. Dharma is capable of making updates to the smart wallet code and is also capable of freezing accounts.
 
-#### Is the security of user funds dependent on opsec of admin key?
+### Is the security of user funds dependent on opsec of admin key?
 
 Yes ⚠️
 
-#### Current Admin Key Config
+### Current Admin Key Config
 
 Timelock: 7 days  
 Multisig: 3-of-5
 
-#### Claimed Admin Key OpSec
+### Claimed Admin Key OpSec
 
 None
 
-#### Verified Admin Key OpSec
+### Verified Admin Key OpSec
 
 Unverifiable ⚠️
 
-#### Admin Key Address
+### Admin Key Address
 
 [https://etherscan.io/address/0x00000001008b2ff2004f00a7c8a0f48c675e5034](https://etherscan.io/address/0x00000001008b2ff2004f00a7c8a0f48c675e5034)
 
-#### More Info & Documentation
+### More Info & Documentation
 
 [Tweets on security](https://twitter.com/Dharma_HQ/status/1195168777064738816?s=20)   
 [Github ReadMe \(section: Upgradeability\)](https://github.com/dharma-eng/dharma-smart-wallet)
 
-#### Statement from Dharma
+### Statement from Dharma
 
 > Hey there - author of the Dharma Smart Wallet and related contracts here. \(This is a fantastic initiative, by the way - transparency is an incredibly important aspect of decentralized finance!\)
 >
