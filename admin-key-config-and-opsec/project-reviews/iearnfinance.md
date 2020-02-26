@@ -1,8 +1,6 @@
----
-description: This info applies to iearn's v2 yield tokens.
----
-
 # iearn.finance
+
+**The following info is accurate with regard to iearn's v2 yield tokens.** 
 
 [iearn.finance](https://iearn.finance) yDAI and yUSDC yield token contracts are not upgradeable and **do not** have admin keys.
 
