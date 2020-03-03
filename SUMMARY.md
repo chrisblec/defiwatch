@@ -34,6 +34,7 @@
 
 ## Additional Resources
 
+* [Recommended Reading](additional-resources/recommended-reading.md)
 * [DeFi Score](https://defiscore.io)
 
 ## More on Chris Blec
