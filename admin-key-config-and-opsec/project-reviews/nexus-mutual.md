@@ -1,4 +1,4 @@
-# Nexus Mutual
+# Nexus Mutual 🆕
 
 [Nexus Mutual](https://nexusmutual.io)'s smart contract pools are protected by an admin key controlled by the Mutual's 5 known Advisory Board members. The admin key is capable of making changes to critical parts of the smart contract ecosystem which could affect user deposits. Smart contract upgrades can occur with the approval of any 3+ board members. 
 

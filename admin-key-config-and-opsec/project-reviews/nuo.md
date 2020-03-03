@@ -1,4 +1,4 @@
-# Nuo
+# Nuo 🆕
 
 [Nuo](https://nuo.network)'s smart contracts are protected by a single admin key that has no timelock and no multisig protection. The admin key is capable of making changes to critical parts of the smart contract ecosystem and could endanger user funds if used maliciously.
 
