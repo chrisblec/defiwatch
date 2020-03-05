@@ -39,7 +39,6 @@
 
 ## More on Chris Blec
 
-* [Support Chris Blec on Patreon](https://patreon.com/chrisblec)
 * [Chris Blec on YouTube](https://youtube.com/chrisblec)
 * [Chris Blec on Twitter](https://twitter.com/chrisblec)
 
