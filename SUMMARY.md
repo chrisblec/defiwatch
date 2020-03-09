@@ -6,7 +6,7 @@
 ## DeFi Values
 
 * [Why do we need DeFi Watch?](defi-values/why-defi-watch.md)
-* [The DeFi North Star](defi-values/the-defi-north-star.md)
+* [The DeFi North Star \(updated 9 Mar\)](defi-values/the-defi-north-star.md)
 
 ## Admin Key OpSec Risk <a id="admin-key-config-and-opsec"></a>
 
@@ -21,8 +21,8 @@
   * [iearn.finance](admin-key-config-and-opsec/project-reviews/iearnfinance.md)
   * [InstaDapp](admin-key-config-and-opsec/project-reviews/instadapp.md)
   * [MakerDAO](admin-key-config-and-opsec/project-reviews/makerdao.md)
-  * [Nexus Mutual 🆕](admin-key-config-and-opsec/project-reviews/nexus-mutual.md)
-  * [Nuo 🆕](admin-key-config-and-opsec/project-reviews/nuo.md)
+  * [Nexus Mutual](admin-key-config-and-opsec/project-reviews/nexus-mutual.md)
+  * [Nuo](admin-key-config-and-opsec/project-reviews/nuo.md)
   * [PoolTogether](admin-key-config-and-opsec/project-reviews/pooltogether.md)
   * [Synthetix](admin-key-config-and-opsec/project-reviews/synthetix.md)
   * [Token Sets](admin-key-config-and-opsec/project-reviews/token-sets.md)
