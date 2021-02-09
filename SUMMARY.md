@@ -3,7 +3,7 @@
 * [Welcome to DeFi Watch](README.md)
 * [Disclaimer](disclaimer.md)
 
-## DeFi Projects
+## DeFi Projects - More Soon! <a id="defi-projects"></a>
 
 * [Compound](defi-projects/compound.md)
 * [Curve](defi-projects/curve.md)
