@@ -6,9 +6,15 @@
 
 ✅ Voting occurs on-chain
 
-❌ Economics have been critically exploited
+❌ Economics have been critically exploited & funds lost
 
 ❌ Critical logic can be modified without a vote
+
+***
+
+### Who do you have to trust?
+
+The anonymous signers on the Ops multisig are capable of modifying Yearn strategies.
 
 ### **Governance Details**
 
