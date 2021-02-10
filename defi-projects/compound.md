@@ -1,6 +1,6 @@
 # Compound
 
-### Summary
+## Summary
 
 ✅ All code is open source
 
@@ -10,15 +10,11 @@
 
 ❌ Whales dominate voting
 
-***
-
-### Who can drain the funds?
+## Who do you need to trust?
 
 Whale tokenholders could, potentially, collude to modify the core logic to drain funds. However, any changes would be held by a timelock contract and would be displayed on [this page](https://app.compound.finance/timelock).
 
-***
-
-### **Governance Details**
+## **Governance Details**
 
 Compound has no admin key, and all governance powers have been transitioned to token holders. Token holders to have the ability, via on-chain governance votes, to affect the core logic of the smart contract.
 

@@ -1,6 +1,6 @@
 # Curve
 
-### Summary
+## Summary
 
 ✅ All code is open source
 
@@ -10,17 +10,13 @@
 
 ❌ Whales dominate voting
 
-***
+## Who do you need to trust?
 
-### Who do you need to trust?
-
-Curve does a nice job of outlining risks & trust requirements [here](https://www.curve.fi/risks). 
+Curve does a nice job of outlining risks & trust requirements [here](https://www.curve.fi/risks).
 
 Curve uses smart contracts from other lending protocols on top of its own, so there is often major systemic risk involved. Exploits are more likely to take the form of malicious arbitrage.
 
-***
-
-### **Governance Details**
+## **Governance Details**
 
 Curve, like Maker and Compound, also has token voting via CRV. However they have also introduced a token called veCRV, which stands for “vote escrowed CRV”. Basically, if you want to accrue more voting power, you can lock up your CRV for a set amount of time. The longer you lock up your CRV, the more voting power it gains. This is intended to take some power away from whales and give it to smaller, more committed token holders.
 
