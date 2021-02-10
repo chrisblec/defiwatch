@@ -12,6 +12,8 @@
 
 ## Who do you need to trust?
 
+**Whale tokenholders.**
+
 Whale tokenholders could, potentially, collude to modify the core logic to drain funds. However, any changes would be held by a timelock contract and would be displayed on [this page](https://app.compound.finance/timelock).
 
 ## **Governance Details**
