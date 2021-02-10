@@ -10,6 +10,14 @@
 
 ✅ Token voting only affects non-critical logic
 
+***
+
+### Who do you need to trust?
+
+Uniswap's core logic cannot be altered by anyone, so *no trust is required or requested*. This does not include the assets that you actually trade on Uniswap, however, as those may require large amounts of trust that is unrelated to the Uniswap project itself.
+
+***
+
 ### **Governance Details**
 
 Uniswap v2 is the most trustless DeFi product on the list.
