@@ -10,6 +10,14 @@
 
 ❌ Critical logic can _only_ be modified by a multisig
 
+***
+
+### Who do you need to trust?
+
+Synthetix's protocolDAO is extremely powerful and has the ability to modify core logic or attack user funds. Any such action would be held by a 48-hour timelock, giving the community that time to take action. Whether or not the community would be able to form a reasonable response in that amount of time is unknown. Only the protocolDAO members can begin an Emergency Shutdown, so that would not be an option for tokenholders.
+
+***
+
 ### **Governance Details**
 
 The Synthetix community recently switched its voting system from a simple vote in the chat app Discord over to the off-chain signalling mechanism, [Snapshot](https://snapshot.page/). Another change is planned shortly to move to a proxy voting system labeled [“Spartan Council”](https://sips.synthetix.io/sips/sip-93) which will require users to vote for 7 representatives who will have sole voting power. The most important takeaway here is that **Synthetix voting does** _**not**_ **happen on-chain.**
