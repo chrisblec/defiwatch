@@ -10,6 +10,12 @@
 
 ❌ Whales dominate voting
 
+***
+
+### Who do you need to trust?
+
+Whale tokenholders could, potentially, collude to modify the core logic to drain funds. However, all activity would be public in nature, changes would be held by a timelock contract, and the community could vote for an Emergency Shutdown to prevent changes from going into effect.
+
 ### **Governance Details**
 
 Compound and Maker have much in common as far as their governance approaches go. Both rely on token holders to make key decisions regarding the smart contract ecosystems, and both allow executable code to be proposed. Both also have questionable token distribution and weak participation relative to their overall user base.
